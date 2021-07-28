@@ -7,7 +7,10 @@ Wrapped Blockchain Investor Bearer Token, Ticker "WBIB", Total Supply 1000.000.0
 Benefits of using wrapped tokens
 Even though many blockchains have their own token standards (ERC-20 for Ethereum or BEP-20 for BSC), these standards can’t be used across multiple chains and exchanges. Wrapped tokens allow non-native tokens to be used on a given blockchain / Exchange.
 
-In addition, wrapped tokens can increase liquidity and capital efficiency both for centralized and decentralized exchanges. The ability to wrap idle assets and use them on another chain can create more connection between otherwise isolated liquidity.
+In addition, wrapped tokens can increase liquidity and capital efficiency both for centralized and decentralized exchanges. The ability to wrap idle assets and use them on another chain can create more connection between otherwise isolated liquidity. 
+
+since BIB was developed before using the ERC-223 standard, it isn’t compliant with ERC20 based exchanges / liquidity pools. This creates a problem, as many DApps require you to convert between ether and an ERC-20 token. This is why wrapped BIB (WBIB) was created. It’s a wrapped version of BIB that is compliant with the ERC-20 standard.
+
 
 Tokens allocation as follows: 150 million tokens distributed to current shareholders in Blockchain Investor reflecting their tokenholding, and 850 millions passive tokens for future issuing (capital increase) against digital assets / currencies. Issuing of these passive tokens is subject to approval of the Board of Directors and General Meeting of Tokenholders.
 
