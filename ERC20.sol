@@ -2,7 +2,7 @@ pragma solidity ^0.5.0;
 
 // ----------------------------------------------------------------------------
 // ERC Token Standard #20 Interface
-//
+// Blockchain Investor ERC20 Bearer Token (WBIB)
 // ----------------------------------------------------------------------------
 contract ERC20Interface {
     function totalSupply() public view returns (uint);
