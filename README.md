@@ -2,13 +2,13 @@
 
 Blockchain Investor - a global investor in the emerging token economy / Blockchain related assets.
 
-Blockchain Investor Bearer ERC20 Token, Ticker "WBIB", Total Supply 1000.000.000 BIB tokens, 18 Decimals, Contract BIBerc20Token,
+Wrapped Blockchain Investor Bearer Token, Ticker "WBIB", Total Supply 1000.000.000 BIB tokens, 18 Decimals, Contract BIBerc20Token,
 
 Tokens allocation as follows: 150 million tokens distributed to current shareholders in Blockchain Investor reflecting their tokenholding, and 850 millions passive tokens for future issuing (capital increase) against digital assets / currencies. Issuing of these passive tokens is subject to approval of the Board of Directors and General Meeting of Tokenholders.
 
 Full Contract implemented at https://etherscan.io/address/0x049158da08568d1973dc951ec758873bf7125478
 
-Blokchain Investor Bearer Token listed on Decentralized Exchange (DEX).
+Wrapped Blokchain Investor Bearer Token listed on Decentralized Exchange (DEX).
 Website https://cryptortrust.com/ Investor Relation https://cryptortrust.com/investor-relation/
 
 Groups/ Forums
@@ -42,7 +42,7 @@ Web3 / dApps
 OpenBazaar ID QmcLfrGiJVXFfzJWSB87tv4GJ7KNPfSw6y2vxJpmyBvpq3 or search with our handle ‘@cryptortrust‘ using OpenBazaar search engines like BlockBooth on the web to find us.
 Blockchain Asset Exchange: To be launched soon.
 
-Blockchain Investor Bearer Token
+Wrapped Blockchain Investor Bearer Token
 Twitter https://twitter.com/blockchaininv
 Linkedin https://www.linkedin.com/showcase/blockchain-investor-inc-
 Facebook https://www.facebook.com/blockchaininvestor
