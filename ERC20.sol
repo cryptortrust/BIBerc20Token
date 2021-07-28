@@ -31,7 +31,7 @@ contract SafeMath {
 }
 
 
-contract BIBerc20Token is ERC20Interface, SafeMath {
+contract WBIBToken is ERC20Interface, SafeMath {
     string public name;
     string public symbol;
     uint8 public decimals; // 18 decimals is the default.
@@ -47,8 +47,8 @@ contract BIBerc20Token is ERC20Interface, SafeMath {
      * Initializes contract with initial supply tokens to the creator of the contract
      */
     constructor() public {
-        name = "BIBerc20";
-        symbol = "wBIB";
+        name = "WrappedBIB";
+        symbol = "WBIB";
         decimals = 18;
         _totalSupply = 100000000000000000000000000;
 
