@@ -15,7 +15,7 @@ WBIB is an ERC-20 token that’s hold a one-to-one peg to the value of BIB allow
 
 But how does the wrapping process work? A merchant sends BIB for the custodian to change. The custodian then sends back WBIB on Ethereum according to the amount of BIB sent. When the WBIB needs to be exchanged back to BIB, the merchant returns the WBTC to the custodian, and the BIB is released from the reserves. You can think of the custodian as the wrapper and unwrapper.
 
-Full Contract implemented at https://etherscan.io/address/
+Full Contract implemented at https://etherscan.io/address/   .... coming....
 
 Wrapped Blokchain Investor Bearer Token listed on Decentralized Exchange (DEX).
 Website https://cryptortrust.com/ Investor Relation https://cryptortrust.com/investor-relation/
