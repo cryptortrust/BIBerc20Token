@@ -2,16 +2,14 @@
 
 Blockchain Investor - a global investor in crypto assets.
 
-Wrapped Blockchain Investor Bearer Token, Ticker "WBIB", Total Supply 1000.000.000 BIB tokens, 18 Decimals, Contract WBIBToken.
+Wrapped Blockchain Investor Bearer Token, Ticker "WBIB", Total Supply 1000.000.000 BIB tokens, 18 Decimals, Contract WrappedBIB.
 
 Benefits of using wrapped tokens
-Even though many blockchains have their own token standards (ERC-20 for Ethereum or BEP-20 for BSC), these standards can’t be used across multiple chains and exchanges. Wrapped tokens allow non-native tokens to be used on a given blockchain / Exchange.
+Even though many blockchains have their own token standards (ERC-20 for Ethereum or BEP-20 for BSC), these standards can’t be used across multiple chains and exchanges. Wrapped tokens allow non-native tokens to be used on a given blockchain / Exchange pool.
 
-In addition, wrapped tokens can increase liquidity and capital efficiency both for centralized and decentralized exchanges. The ability to wrap idle assets and use them on another chain can create more connection between otherwise isolated liquidity. 
+In addition, wrapped tokens can increase liquidity and capital efficiency both for centralized and decentralized exchanges. The ability to wrap idle assets and use them on another chain can create more connection between otherwise isolated liquidity. Since BIB was developed using the ERC-223 standard, it isn’t compliant with ERC20 based exchanges / liquidity pools. This creates a problem, as many DApps require you to convert between ether and an ERC-20 token. This is why "Wrapped BIB" (WBIB) was created. It’s a wrapped version of BIB that is compliant with the ERC-20 standard.
 
-since BIB was developed before using the ERC-223 standard, it isn’t compliant with ERC20 based exchanges / liquidity pools. This creates a problem, as many DApps require you to convert between ether and an ERC-20 token. This is why wrapped BIB (WBIB) was created. It’s a wrapped version of BIB that is compliant with the ERC-20 standard.
-
-WBIB is an ERC-20 token that’s hold a one-to-one peg to the value of BIB allowing you to effectively use BIB on ERC20 based Ethereum network / exchange. Wrapped tokens require a custodian – an entity that holds an equivalent amount of the asset as the wrapped amount. This custodian can be a bank, merchant, a wallet, a DAO, or even a smart contract. So, in WBIB’s case, the custodian needs to hold 1 BIB for each 1 WBIB that is issued. Proof of this reserve exists on-chain.
+WBIB is an ERC-20 token that’s hold a one-to-one peg to the value of BIB allowing you to effectively use BIB on ERC20 based Ethereum network / exchanges. Wrapped tokens require a custodian – an entity that holds an equivalent amount of the asset as the wrapped amount. This custodian can be a bank, merchant, a wallet, a DAO, or even a smart contract. So, in WBIB’s case, the custodian needs to hold 1 BIB for each 1 WBIB that is issued. Proof of this reserve exists on-chain.
 
 But how does the wrapping process work? A merchant sends BIB for the custodian to change. The custodian then sends back WBIB on Ethereum according to the amount of BIB sent. When the WBIB needs to be exchanged back to BIB, the merchant returns the WBTC to the custodian, and the BIB is released from the reserves. You can think of the custodian as the wrapper and unwrapper.
 
