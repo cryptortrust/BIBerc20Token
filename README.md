@@ -11,8 +11,7 @@ In addition, wrapped tokens can increase liquidity and capital efficiency both f
 
 since BIB was developed before using the ERC-223 standard, it isn’t compliant with ERC20 based exchanges / liquidity pools. This creates a problem, as many DApps require you to convert between ether and an ERC-20 token. This is why wrapped BIB (WBIB) was created. It’s a wrapped version of BIB that is compliant with the ERC-20 standard.
 
-
-Tokens allocation as follows: 150 million tokens distributed to current shareholders in Blockchain Investor reflecting their tokenholding, and 850 millions passive tokens for future issuing (capital increase) against digital assets / currencies. Issuing of these passive tokens is subject to approval of the Board of Directors and General Meeting of Tokenholders.
+WBIB is an ERC-20 token that’s hold a one-to-one peg to the value of BIB allowing you to effectively use BIB on ERC20 based Ethereum network / exchange. Wrapped tokens require a custodian – an entity that holds an equivalent amount of the asset as the wrapped amount. This custodian can be a merchant, a multisig wallet, a DAO, or even a smart contract. So, in WBIB’s case, the custodian needs to hold 1 BIB for each 1 WBIB that is issued. Proof of this reserve exists on-chain. 
 
 Full Contract implemented at https://etherscan.io/address/
 
