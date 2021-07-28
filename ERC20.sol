@@ -48,7 +48,7 @@ contract BIBerc20Token is ERC20Interface, SafeMath {
      */
     constructor() public {
         name = "BIBerc20";
-        symbol = "BIBerc20";
+        symbol = "wBIB";
         decimals = 18;
         _totalSupply = 100000000000000000000000000;
 
