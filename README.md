@@ -13,7 +13,7 @@ since BIB was developed before using the ERC-223 standard, it isn’t compliant 
 
 WBIB is an ERC-20 token that’s hold a one-to-one peg to the value of BIB allowing you to effectively use BIB on ERC20 based Ethereum network / exchange. Wrapped tokens require a custodian – an entity that holds an equivalent amount of the asset as the wrapped amount. This custodian can be a bank, merchant, a wallet, a DAO, or even a smart contract. So, in WBIB’s case, the custodian needs to hold 1 BIB for each 1 WBIB that is issued. Proof of this reserve exists on-chain.
 
-But how does the wrapping process work? A merchant sends BIB for the custodian to change. The custodian then sends back WBIB on Ethereum according to the amount of BIB sent. When the WBIB needs to be exchanged back to BIB, the merchant returns the WBTC to the custodian, and the BIB is released from the reserves. You can think of the custodian as the wrapper and unwrapper. In WBIB’s case, the adding and removing custodians and merchants will in the future be performed by a DAO.
+But how does the wrapping process work? A merchant sends BIB for the custodian to change. The custodian then sends back WBIB on Ethereum according to the amount of BIB sent. When the WBIB needs to be exchanged back to BIB, the merchant returns the WBTC to the custodian, and the BIB is released from the reserves. You can think of the custodian as the wrapper and unwrapper.
 
 Full Contract implemented at https://etherscan.io/address/
 
