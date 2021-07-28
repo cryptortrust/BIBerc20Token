@@ -2,11 +2,16 @@
 
 Blockchain Investor - a global investor in the emerging token economy / Blockchain related assets.
 
-Wrapped Blockchain Investor Bearer Token, Ticker "WBIB", Total Supply 1000.000.000 BIB tokens, 18 Decimals, Contract BIBerc20Token,
+Wrapped Blockchain Investor Bearer Token, Ticker "WBIB", Total Supply 1000.000.000 BIB tokens, 18 Decimals, Contract BIBerc20Token.
+
+Benefits of using wrapped tokens
+Even though many blockchains have their own token standards (ERC-20 for Ethereum or BEP-20 for BSC), these standards can’t be used across multiple chains and exchanges. Wrapped tokens allow non-native tokens to be used on a given blockchain / Exchange.
+
+In addition, wrapped tokens can increase liquidity and capital efficiency both for centralized and decentralized exchanges. The ability to wrap idle assets and use them on another chain can create more connection between otherwise isolated liquidity.
 
 Tokens allocation as follows: 150 million tokens distributed to current shareholders in Blockchain Investor reflecting their tokenholding, and 850 millions passive tokens for future issuing (capital increase) against digital assets / currencies. Issuing of these passive tokens is subject to approval of the Board of Directors and General Meeting of Tokenholders.
 
-Full Contract implemented at https://etherscan.io/address/0x049158da08568d1973dc951ec758873bf7125478
+Full Contract implemented at https://etherscan.io/address/
 
 Wrapped Blokchain Investor Bearer Token listed on Decentralized Exchange (DEX).
 Website https://cryptortrust.com/ Investor Relation https://cryptortrust.com/investor-relation/
