@@ -1,8 +1,8 @@
-# BIBerc20Token 
+# WBIB Token 
 
 Blockchain Investor - a global investor in the emerging token economy / Blockchain related assets.
 
-Blockchain Investor Bearer erc20 Token, Ticker "BIBerc20", Total Supply 1000.000.000 BIB tokens, 4 Decimals, Contract BIBerc20Token,
+Blockchain Investor Bearer ERC20 Token, Ticker "WBIB", Total Supply 1000.000.000 BIB tokens, 18 Decimals, Contract BIBerc20Token,
 
 Tokens allocation as follows: 150 million tokens distributed to current shareholders in Blockchain Investor reflecting their tokenholding, and 850 millions passive tokens for future issuing (capital increase) against digital assets / currencies. Issuing of these passive tokens is subject to approval of the Board of Directors and General Meeting of Tokenholders.
 
