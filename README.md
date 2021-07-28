@@ -1,8 +1,8 @@
 # WBIB Token 
 
-Blockchain Investor - a global investor in the emerging token economy / Blockchain related assets.
+Blockchain Investor - a global investor in crypto assets.
 
-Wrapped Blockchain Investor Bearer Token, Ticker "WBIB", Total Supply 1000.000.000 BIB tokens, 18 Decimals, Contract BIBerc20Token.
+Wrapped Blockchain Investor Bearer Token, Ticker "WBIB", Total Supply 1000.000.000 BIB tokens, 18 Decimals, Contract WBIBToken.
 
 Benefits of using wrapped tokens
 Even though many blockchains have their own token standards (ERC-20 for Ethereum or BEP-20 for BSC), these standards can’t be used across multiple chains and exchanges. Wrapped tokens allow non-native tokens to be used on a given blockchain / Exchange.
