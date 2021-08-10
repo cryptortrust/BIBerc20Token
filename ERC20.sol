@@ -48,7 +48,7 @@ contract WrappedBIB is ERC20Interface, SafeMath {
     mapping(address => mapping(address => uint)) allowed;
 
     /**
-     * Constrctor function
+     * Constructor function
      *
      * Initializes contract with initial supply tokens to the creator of the contract
      */
