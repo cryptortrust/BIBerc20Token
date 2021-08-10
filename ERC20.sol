@@ -1,12 +1,14 @@
 /**
- *Submitted for verification at Etherscan.io on 2021-07-30
+ *Submitted for verification at Etherscan.io on 2021-08-17
 */
 
 pragma solidity ^0.5.0;
 
 // ----------------------------------------------------------------------------
 // ERC Token Standard #20 Interface
-// Blockchain Investor ERC20 Bearer Token (WBIB)
+// Wrapped Blockchain Investor Bearer ERC20 token (WBIB)
+// WBIB is an ERC-20 token that’s hold a one-to-one peg to the value of BIB 
+// allowing you to effectively use BIB on ERC20 based Ethereum network/exchanges.
 // ----------------------------------------------------------------------------
 contract ERC20Interface {
     function totalSupply() public view returns (uint);
