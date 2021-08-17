@@ -11,7 +11,7 @@ pragma solidity ^0.5.0;
 // WBIB is an ERC-20 token that’s hold a one-to-one peg to the value of BIB 
 // allowing you to effectively use BIB on ERC20 based Ethereum network/exchanges.
 // ----------------------------------------------------------------------------
-contract WBIBToken {
+contract ERC20Interface {
     function totalSupply() public view returns (uint);
     function balanceOf(address tokenOwner) public view returns (uint balance);
     function allowance(address tokenOwner, address spender) public view returns (uint remaining);
@@ -38,7 +38,7 @@ contract SafeMath {
 }
 
 
-contract WBIBToken is ERC20Interface, SafeMath {
+contract WrappedBIB is ERC20Interface, SafeMath {
     string public name;
     string public symbol;
     uint8 public decimals; // 18 decimals is the default.
