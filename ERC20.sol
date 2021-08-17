@@ -52,6 +52,7 @@ contract WrappedBIB is ERC20Interface, SafeMath {
      * Constructor function
      *
      * Initializes contract with initial supply tokens to the creator of the contract
+     * Total supply is 1 billion (1000.000.000) wBIB tokens
      */
     constructor() public {
         name = "WrappedBIB";
