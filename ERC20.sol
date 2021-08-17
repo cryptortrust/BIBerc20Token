@@ -95,4 +95,3 @@ contract WrappedBIB is ERC20Interface, SafeMath {
         return true;
     }
 }
-© 2021 GitHub, Inc.
